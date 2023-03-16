@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">HobbyHub</string>
+    <string name="app_name_for_logo">Hobby\nHub</string>
+    <string name="logout">Ausloggen</string>
+    <string name="display_name">displayName</string>
+    <string name="user">user</string>
+    <string name="email">email</string>
+    <string name="original_id">originalId</string>
+    <string name="google_signin_error">Fehler beim Login mit Google Account…</string>
+    <!-- Facebook Login -->
+    <string name="facebook_app_id">691252932745156</string>
+    <string name="fb_login_protocol_scheme">fb691252932745156</string>
+    <string name="facebook_client_token">56789</string>
+    <string name="facebook_process_error">Fehler beim Verarbeiten der Facebook Login Daten…</string>
+    <string name="facebook_login_error">Fehler beim Facebook Login…</string>
+    <string name="facebook_key_id">id</string>
+    <string name="facebook_key_name">name</string>
+    <string name="facebook_key_email">email</string>
+</resources>

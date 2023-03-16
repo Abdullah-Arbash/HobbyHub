@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <!-- "Should appear as action button if possible -->
+    <item
+        android:id="@+id/action_favorite"
+
+        android:title="test"
+        app:showAsAction="ifRoom"/>
+
+    <!-- Logout, should always be in the overflow -->
+    <item android:id="@+id/action_logout"
+        android:title="@string/logout"
+        app:showAsAction="never"/>
+
+</menu>
